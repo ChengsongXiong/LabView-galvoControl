@@ -1,3 +1,3 @@
-*.js linguist-language=LabView
-*.css linguist-language=LabView
+*.vi linguist-language=LabView
+*.ctl linguist-language=LabView
 *.html linguist-language=LabView
